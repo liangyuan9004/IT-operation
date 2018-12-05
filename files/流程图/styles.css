@@ -62,3 +62,30 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u3_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:301px;
+  height:199px;
+}
+#u3 {
+  border-width:0px;
+  position:absolute;
+  left:769px;
+  top:602px;
+  width:300px;
+  height:198px;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-style:normal;
+  font-size:16px;
+}
+#u3_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  word-wrap:break-word;
+}
